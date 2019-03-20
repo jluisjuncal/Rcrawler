@@ -14,7 +14,7 @@ More than that,  Rcrawler can help you studies web site structure by building a 
 >  **Announcements** : Actually I'm looking for a one or two more people to maintain the package: implementing new features, writing documentations. Especially those interested in publishing scientific papers. Skills needed : R programming, c++ and good writing. 
 
 > Help us improve Rcrawler by **asking questions**, **revealing issues**, **suggesting new features**.
-> If you have a blog **write** about it, or just **share** it with your colleg,ues. 
+> If you have a blog **write** about it, or just **share** it with your colleague. 
 
 > :thumbsup: Thank you  :relaxed:
 
